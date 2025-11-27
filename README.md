@@ -106,7 +106,7 @@ streamlit run app.py
 ##  Author
 **Ankit Jadhav**  
  Data Science & Machine Learning Enthusiast  
- [Add your email or LinkedIn profile]
+www.linkedin.com/in/ankit-jadhav-5556ankit
 
 ---
 
